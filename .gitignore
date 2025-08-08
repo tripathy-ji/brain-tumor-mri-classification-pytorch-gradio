@@ -9,3 +9,7 @@ misclassified/
 archive/
 a.py
 b.py
+*.zip
+*.tar.gz
+*.rar
+*.7z
